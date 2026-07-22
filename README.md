@@ -1,6 +1,6 @@
 # 📊 Power BI Business Intelligence Dashboard
 
-![Dashboard](cover power BI.png)
+![Dashboard](cover.png)
 
 ## 📌 Project Overview
 
