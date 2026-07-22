@@ -28,7 +28,7 @@ Developed an interactive Business Intelligence dashboard using Power BI to analy
 
 ## 📈 Dashboard Overview
 
-![Dashboard](cover.png)
+![Dashboard](dashboard.pdf)
 
 ### Key Insights
 
